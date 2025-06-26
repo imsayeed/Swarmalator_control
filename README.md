@@ -1,3 +1,3 @@
 # Swarmalator_control
-This repository is part of the manuscript "A strategy to control synchronized dynamics in swarmalator systems." 
-Here we have attached the movies for different figures of the manuscript
+This repository is part of the manuscript "A TWO-DIMENSIONAL SWARMALATOR MODEL WITH HIGHER-ORDER INTERACTIONS" 
+Here we have attached the movies for different states of the manuscript.
